@@ -1,0 +1,29 @@
+{
+  "name": "p-fit-api",
+  "version": "1.0.0",
+  "description": "Api for calling measurements from perfect fit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyNicholas/perfect-fit.git"
+  },
+  "author": "anicholas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyNicholas/perfect-fit/issues"
+  },
+  "homepage": "https://github.com/AnthonyNicholas/perfect-fit#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5",
+    "nodemon": "^1.18.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
